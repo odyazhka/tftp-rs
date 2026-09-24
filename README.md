@@ -1,6 +1,8 @@
 # tftp-rs
 реализация TFTP протокола на Rust
 
+умеет передовать файлы, проверяет размер и целостность по хэшу blake3
+
 <img width="859" height="362" alt="изображение" src="https://github.com/user-attachments/assets/3d24bd3f-9be3-47a5-b738-f7c662891cb8" />
 
 

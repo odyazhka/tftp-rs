@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=tftp-rs
+GenericName=TFTP file transfer
+GenericName[ru]=Передача файлов по TFTP
+Comment=Send and receive files and folders over TFTP
+Comment[ru]=Отправка и приём файлов и папок по TFTP
+Exec=tftp-rs
+Icon=tftp-rs
+Terminal=false
+Categories=Network;FileTransfer;
+Keywords=tftp;transfer;network;
+StartupWMClass=tftp-rs
